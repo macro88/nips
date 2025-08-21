@@ -151,7 +151,7 @@ This document provides a comprehensive table summary of all event kinds defined 
 | `34550` | [72](72.md) | Community Definition | Community Definition |
 | `38172` | [87](87.md) | Cashu Mint Announcement | Cashu Mint Announcement |
 | `38173` | [87](87.md) | Fedimint Announcement | Fedimint Announcement |
-| `37516` | [geocaching](geocaching) | Geocache listing | Geocache listing |
+| `37516` | [geocaching](geocaching.md) | Geocache listing | Geocache listing |
 | `38383` | [69](69.md) | Peer-to-peer Order events | Peer-to-peer Order events |
 | `39000-9` | [29](29.md) | Group metadata events | Group metadata events |
 | `39089` | [51](51.md) | Starter packs | Starter packs |
