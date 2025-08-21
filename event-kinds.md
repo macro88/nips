@@ -5,7 +5,7 @@ This document provides a comprehensive table summary of all event kinds defined 
 | Event Kind | NIPs | Name | Summary |
 | ---------- | ---- | ---- | ------- |
 | `0` | [01](01.md) | User Metadata | User Metadata |
-| `1` | [10](10.md) | Short Text Note | Short Text Note |
+| `1` | [01](01.md) | Short Text Note | Short Text Note |
 | `2` | 01 (deprecated) | Recommend Relay | Recommend Relay |
 | `3` | [02](02.md) | Follows | Follows |
 | `4` | [04](04.md) | Encrypted Direct Messages | Encrypted Direct Messages |
